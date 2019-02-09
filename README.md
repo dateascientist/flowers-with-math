@@ -1,4 +1,4 @@
-# flowers_with_math
+# flowers-with-math
 DataCamp R Project: Phyllotaxis: Draw flowers using mathematics
 
 R is a tool for doing serious statistics and data analysis. But not everything in life can be serious, life is also beautiful, and R can make beautiful things too. R can make art.
